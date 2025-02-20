@@ -27,12 +27,12 @@
 
 2. **Compile the Java code:**
    ```bash
-   javac -d bin src/pkg/HackTools/dirbScanner.java
+   javac dirbScanner.java
    ```
 
 3. **Run the tool:**
    ```bash
-   java -cp bin pkg.HackTools.dirbScanner
+   java dirbScanner
    ```
 
 4. **Provide input:**
